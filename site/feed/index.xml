@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title></title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>portfoliosite boazhoek</description>
+	<lastBuildDate>Wed, 29 Jun 2022 13:57:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Tips For Better Writing</title>
+		<link>/tips-for-better-writing/</link>
+		
+		<dc:creator><![CDATA[boazhoek]]></dc:creator>
+		<pubDate>Wed, 29 Jun 2022 13:56:48 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://boazhoek.com/tips-for-better-writing/</guid>
+
+					<description><![CDATA[Plan Your Content If you&#8217;re considering adding a blog to your site, you&#8217;ll want to have a plan beforehand. Planning your blog will help your subject matter remain consistent over time. It&#8217;ll also help you determine whether or not there&#8217;s enough material to maintain a steady stream of posts. One pitfall many new bloggers run &#8230;<p class="read-more"> <a class="" href="/tips-for-better-writing/"> <span class="screen-reader-text">Tips For Better Writing</span> Read More &#187;</a></p>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Basic Taxonomies</title>
+		<link>/basic-taxonomies/</link>
+		
+		<dc:creator><![CDATA[boazhoek]]></dc:creator>
+		<pubDate>Wed, 29 Jun 2022 13:56:48 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://boazhoek.com/basic-taxonomies/</guid>
+
+					<description><![CDATA[Categories and Tags If you write about a variety of subjects, categories can help your readers find the posts that are most relevant to them. For instance, if you run a consulting business, you may want some of your posts to reflect work you&#8217;ve done with previous clients, while having other posts act as informational &#8230;<p class="read-more"> <a class="" href="/basic-taxonomies/"> <span class="screen-reader-text">Basic Taxonomies</span> Read More &#187;</a></p>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Blogging 101</title>
+		<link>/blogging-101/</link>
+		
+		<dc:creator><![CDATA[boazhoek]]></dc:creator>
+		<pubDate>Wed, 29 Jun 2022 13:56:47 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://boazhoek.com/blogging-101/</guid>
+
+					<description><![CDATA[Pages vs. Posts If you&#8217;re new to WordPress you may be wondering what&#8217;s the big deal behind Pages and Posts. At first glance they appear to be one and the same: if you were to create either a new page or a new post you&#8217;d be presented with nearly identical interfaces and in many cases &#8230;<p class="read-more"> <a class="" href="/blogging-101/"> <span class="screen-reader-text">Blogging 101</span> Read More &#187;</a></p>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
